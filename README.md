@@ -6,10 +6,10 @@ The results in the paper can be reproduced by simply running sbert_rank.py insid
 
 The datasets used are:
 
-6 - INSPEC
-7 - NUS
-8 - DUC2001
-9 - SemEval2017 
+6 - INSPEC <br />
+7 - NUS <br />
+8 - DUC2001 <br />
+9 - SemEval2017  <br />
 
 Feel free to reach out to us! 
 
